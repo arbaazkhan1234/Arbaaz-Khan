@@ -97,7 +97,7 @@ Here are some screenshots to give you a glimpse of the Tourism Management System
 
 ### Tourist Registration
 
-![Tourist Registration](screenshots/tourist_registration.png)
+![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.37%201.png)
 
 *Description: The interface for registering new tourists with necessary details.*
 
