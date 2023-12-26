@@ -90,38 +90,38 @@ Here are some screenshots to give you a glimpse of the Tourism Management System
 
 ### Dashboard
 
-![Dashboard](![1](https://github.com/arbaazkhan1234/Arbaaz-Khan/assets/153987028/a29262e7-a7cb-4678-b466-ded341964e69)
+![Dashboard](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.36%201.png)
 )
 
 *Description: The main dashboard displaying key information and navigation.*
 
 ### Tourist Registration
 
-![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.37%201.png)
+![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.38%201.png)
 
 *Description: The interface for registering new tourists with necessary details.*
 
 ### Package Management
 
-![Package Management](screenshots/package_management.png)
+![Package Management](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.37%201.png)
 
 *Description: Managing tourism packages with information such as name, description, and cost.*
 
 ### FindPackage
 
-![Find Package](screenshots/booking_system.png)
+![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.38%202.png)
 
 *Description: The booking system for handling reservations and customer bookings.*
 
 ### FindTourist
 
-![Find Tourist](screenshots/billing_and_invoicing.png)
+![Find Tourist](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.39%201.png)
 
 *Description: The module for managing billing and generating invoices.*
 
 ### CustomerSupport
 
-![Customer Support](screenshots/reporting.png)
+![Customer Support](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.39%202.png)
 
 *Description: Accessing reports and analytics for better decision-making.*
 
