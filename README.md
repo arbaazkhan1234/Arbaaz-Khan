@@ -90,38 +90,38 @@ Here are some screenshots to give you a glimpse of the Tourism Management System
 
 ### Dashboard
 
-![Dashboard](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.36%201.png)
+![Dashboard](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg)
 )
 
 *Description: The main dashboard displaying key information and navigation.*
 
 ### Tourist Registration
 
-![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.38%201.png)
+![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/RegisterTourist.jpeg)
 
 *Description: The interface for registering new tourists with necessary details.*
 
 ### Package Management
 
-![Package Management](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.37%201.png)
+![Package Management](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/addpackage.jpeg)
 
 *Description: Managing tourism packages with information such as name, description, and cost.*
 
 ### FindPackage
 
-![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.38%202.png)
+![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findpackage.jpeg)
 
 *Description: The booking system for handling reservations and customer bookings.*
 
 ### FindTourist
 
-![Find Tourist](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.39%201.png)
+![Find Tourist](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findtourist.jpeg)
 
 *Description: The module for managing billing and generating invoices.*
 
 ### CustomerSupport
 
-![Customer Support](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/WhatsApp%20Image%202023-12-26%20at%204.39%202.png)
+![Customer Support](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/CustomerS.jpeg)
 
 *Description: Accessing reports and analytics for better decision-making.*
 
