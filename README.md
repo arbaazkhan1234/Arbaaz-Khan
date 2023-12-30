@@ -11,26 +11,34 @@ Welcome to the Tourism Management System, a comprehensive application for managi
 - [Contributing](#contributing)
 - [License](#license)
  ## Features
+Main Page:
+ - ![Dashboard](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg)
+
+
 Add Package:
 
 - ![Add Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg)
 
    Add new tourism packages with details such as package name, description, and cost, enhancing your offerings.
 
-- [Add Tourist](#add-tourist):
+Tourist Registration:
+- ![Add Tourist](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/RegisterTourist.jpeg)
   
    Register new tourists to the system, capturing essential information like name, contact details, and passport number.
 
-- [Find Package](#find-package):
+Find Package:
+- ![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findpackage.jpeg)
   
    Easily search and retrieve information about tourism packages, ensuring efficient management of your offerings.
 
-- [Find Tourist](#find-tourist):
+Find Tourists:
+  - ![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findpackage.jpeg)
+
   
    Locate details about registered tourists quickly, streamlining the process of managing customer information.
-
-- [Customer Support](#customer-support):
   
+Customer Support:
+ ![Customer Support](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/CustomerS.jpeg)
     Access customer support services for assistance, ensuring a smooth experience for both tourists and staff.
 
 - [Delete Package](#delete-package):
@@ -85,47 +93,7 @@ The Tourism Management System uses SQLite for database management. Follow these 
    - Open the database file located in the project directory (e.g., `TourismManagementSystem/database/tourism_database.db`).
 
 ### Step 3: Build and Run the Application
-## Screenshots
 
-Here are some screenshots to give you a glimpse of the Tourism Management System:
-
-### Dashboard
-
-![Dashboard]
-
-*Description: The main dashboard displaying key information and navigation.*
-
-### Tourist Registration
-
-![Tourist Registration](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/RegisterTourist.jpeg)
-
-*Description: The interface for registering new tourists with necessary details.*
-
-### Package Management
-
-![Package Management](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/addpackage.jpeg)
-
-*Description: Managing tourism packages with information such as name, description, and cost.*
-
-### FindPackage
-
-![Find Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findpackage.jpeg)
-
-*Description: The booking system for handling reservations and customer bookings.*
-
-### FindTourist
-
-![Find Tourist](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/findtourist.jpeg)
-
-*Description: The module for managing billing and generating invoices.*
-
-### CustomerSupport
-
-![Customer Support](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/CustomerS.jpeg)
-
-*Description: Accessing reports and analytics for better decision-making.*
-
-Feel free to add more screenshots and descriptions to showcase different aspects of your Tourism Management System.
 
 ---
 
