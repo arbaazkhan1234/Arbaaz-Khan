@@ -11,8 +11,9 @@ Welcome to the Tourism Management System, a comprehensive application for managi
 - [Contributing](#contributing)
 - [License](#license)
  ## Features
+Add Package:
 
-- [Add Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg):
+- ![Add Package](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg)
 
    Add new tourism packages with details such as package name, description, and cost, enhancing your offerings.
 
@@ -90,8 +91,7 @@ Here are some screenshots to give you a glimpse of the Tourism Management System
 
 ### Dashboard
 
-![Dashboard](https://github.com/arbaazkhan1234/Arbaaz-Khan/blob/main/mainwindow.jpeg)
-)
+![Dashboard]
 
 *Description: The main dashboard displaying key information and navigation.*
 
